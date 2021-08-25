@@ -91,4 +91,4 @@ Contributions are what make the open source community such an amazing place to b
 
 Anton Benfey - anton.benfey@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Benfey/GenerateImage)
+Project Link: [https://github.com/Benfey/GenerateImage](https://github.com/Benfey/GenerateImage)
