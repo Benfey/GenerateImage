@@ -31,7 +31,6 @@ This is done by filling the image with garbage metadata to hit the target file s
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Piexif](https://piexif.readthedocs.io/en/latest/)
 * [Pillow](https://pillow.readthedocs.io/en/stable/)
 * [Numpy](https://numpy.org/)
