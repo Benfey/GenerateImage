@@ -27,6 +27,7 @@
 ## About The Project
 
 The purpose of this project is to generate images of specific dimensions and sizes to facilitate the testing process.
+This is done by filling the image with garbage metadata to hit the target file size.
 
 ### Built With
 
